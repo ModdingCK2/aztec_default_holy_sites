@@ -12325,6 +12325,8 @@ e_scandinavia = {
 				danish = "Vestergøtland"
 				norse = "Vestergautland"
 
+				holy_site = aztec
+				holy_site = aztec_reformed
 				holy_site = pagan
 				
 				b_lodose = {
@@ -29527,9 +29529,6 @@ e_france = {
 			c_ile_de_france = {
 				color={ 38 144 211 }
 				color2={ 255 255 255 }
-
-				holy_site = aztec
-				holy_site = aztec_reformed
 				
 				b_paris = {
 					used_for_dynasty_names = no
@@ -32767,8 +32766,6 @@ e_spain = {
 				andalusian_arabic = "Qurtubah"
 
 				holy_site = sunni
-				holy_site = aztec
-				holy_site = aztec_reformed
 				
 				b_cordoba = {
 					bedouin_arabic = "Qurtubah"
@@ -33376,6 +33373,8 @@ e_arabia = {
 
 				holy_site = sunni
 				holy_site = shiite
+				holy_site = aztec
+				holy_site = aztec_reformed
 				holy_site = pagan
 				holy_site = yazidi
 				holy_site = ibadi
@@ -35254,6 +35253,8 @@ e_arabia = {
 				holy_site = miaphysite
 				holy_site = monophysite
 				holy_site = nestorian
+				holy_site = aztec
+				holy_site = aztec_reformed
 				holy_site = pagan
 				holy_site = yazidi
 				holy_site = jewish
@@ -36013,9 +36014,6 @@ e_maghreb = {
 			c_marrakech = {
 				color={ 45 152 34 }
 				color2={ 255 255 255 }
-
-				holy_site = aztec
-				holy_site = aztec_reformed
 				
 				b_marrakech = {
 				}
@@ -38592,9 +38590,6 @@ e_britannia = {
 				color={ 241 90 35 }
 				color2={ 255 255 255 }
 			
-				holy_site = aztec
-				holy_site = aztec_reformed
-
 				b_westminster = {
 					used_for_dynasty_names = no
 					norse=Vestmystur
@@ -41302,6 +41297,8 @@ e_mali = {
 				
 				holy_site = west_african_pagan
 				holy_site = west_african_pagan_reformed
+				holy_site = aztec
+				holy_site = aztec_reformed
 				holy_site = pagan
 				
 				b_el_ghaba = {}
