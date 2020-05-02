@@ -1502,7 +1502,7 @@ d_huitzilopochtli = {
 	
 	graphical_culture = aztecholygfx
 	
-	capital = 843
+	capital = 297 # Västergötland
 
 	title = "HIGHPRIEST"
 	foa = "GRANDMASTER_FOA"
@@ -44092,7 +44092,7 @@ d_aztec_reformed = {
 	color={ 245 245 135 }
 	color2={ 220 220 0 }
 	
-	capital = 1 #???????
+	capital = 297 # Västergötland
 	
 	title = "TLATOANI"
 	title_female = "CIHUATLATOANI"
